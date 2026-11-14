@@ -46,6 +46,11 @@ The test plan sends requests to every main endpoint of the Restful-Booker API, v
 
 **Other elements:** HTTP Header Manager (`Content-Type`, `Accept`), JSON Extractor (dynamic `id` / `token` correlation), View Results Tree listener.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](Apache JMeter Dashboard.png)
+
 ## Repository Structure
 
 ```
