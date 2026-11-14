@@ -49,7 +49,7 @@ The test plan sends requests to every main endpoint of the Restful-Booker API, v
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Apache JMeter Dashboard.png)
+![Dashboard](ApacheJMeterDashboard.png)
 
 ## Repository Structure
 
